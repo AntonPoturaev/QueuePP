@@ -1,8 +1,6 @@
-# QueuePP
+### @package ___QueuePP___
 
-------
 
-# @package QueuePP
+#### @brief ___The *thread manager* C++ library.___
 
-### @brief The *thread manager* c++ library. 
->***[ MacOS' Grand Central Dispatch (GCD) like ]***
+>*[* ***MacOS' Grand Central Dispatch (GCD) like*** *]*
