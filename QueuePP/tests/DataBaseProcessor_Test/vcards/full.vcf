@@ -1,0 +1,221 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Nachname0042;Vorname0042;ZweiterVorname0042;Frau
+FN:Frau Nachname0042 ZweiterVorname0042 Vorname0042
+ORG:Firma0042;Abteilung0042
+TITLE:Position0042
+TEL;WORK;VOICE:01234567890042
+TEL;WORK;VOICE:01234567890042
+TEL;HOME;VOICE:01234567890042
+TEL;CELL;VOICE:01234567890042
+TEL;CAR;VOICE:01234567890042
+TEL;VOICE:01234567890042
+TEL;PAGER;VOICE:01234567890042
+TEL;WORK;FAX:01234567890042
+TEL;HOME;FAX:01234567890042
+TEL;HOME:01234567890042
+TEL;ISDN:01234567890042
+TEL;PREF:01234567890042
+ADR;WORK;ENCODING=QUOTED-PRINTABLE:;01234567890042;Stra=DFeGesch=E4ftlich0042=0AStra=DFeGesch=E4ftlich2_0042=
+=0AStra=DFeGesch=E4ftlich2_0042;OrtGesch=E4ftlich0042;RegionGesch=E4ftlich00=
+42;123450042;Land0042
+LABEL;WORK;ENCODING=QUOTED-PRINTABLE:01234567890042=0D=0AStra=DFeGesch=E4ftlich0042=0AStra=DFeGesch=E4ftlich2_004=
+2=0AStra=DFeGesch=E4ftlich2_0042=0D=0AOrtGesch=E4ftlich0042, RegionGesch=E4f=
+tlich0042 123450042=0D=0ALand0042
+ADR;HOME;ENCODING=QUOTED-PRINTABLE:;;Stra=DFePrivat0042=0AStra=DFePrivat2_0042=0AStra=DFePrivat3_0042;OrtPrivat=
+0042;RegionPrivat0042;123450042;LandPrivat0042
+LABEL;HOME;ENCODING=QUOTED-PRINTABLE:Stra=DFePrivat0042=0AStra=DFePrivat2_0042=0AStra=DFePrivat3_0042=0D=0AOrtPri=
+vat0042, RegionPrivat0042 123450042=0D=0ALandPrivat0042
+ADR;POSTAL;ENCODING=QUOTED-PRINTABLE:;;WeitereStra=DFe0042=0AWeitereStra=DFe2_0042=0AWeitereStra=DFe3_0042;Weiter=
+erOrt0042;WeitereRegion0042;123450042;WeiteresLand0042
+LABEL;POSTAL;ENCODING=QUOTED-PRINTABLE:WeitereStra=DFe0042=0AWeitereStra=DFe2_0042=0AWeitereStra=DFe3_0042=0D=0AWei=
+tererOrt0042, WeitereRegion0042 123450042=0D=0AWeiteresLand0042
+URL;WORK:www.webseite0042.de
+EMAIL;PREF;INTERNET:vorname.nachname@0042
+EMAIL;TLX:01234567890042
+REV:20110621T160656Z
+END:VCARD
+BEGIN:VCARD
+VERSION:2.1
+N:王吧;洋魏;;;
+FN:洋魏 王吧
+NICKNAME:洋魏 王吧
+TEL;CELL;PREF:098 568 5687
+TEL;HOME:8688688
+ADR;WORK:;;毛澤東苗;系促進辣魚;國際商業及商業中心;305室;十二生肖額外設備苑;寶山區寶山久存;36;201900上海;P.R.中國
+ADR;HOME:;;中国;山东省;青岛市;香港东路6号;5号楼;8号室;李小方（先生）收
+PHOTO;GIF:http://www.example.com/dir_photos/my_photo.gif
+EMAIL;TYPE=work:jqpublic@xyz.example.com
+EMAIL;PREF=1:jane_doe@example.com
+URL:http://example.org/restaurant.french/~chezchic.html
+URL:http://www.johndoe.com
+GEO:37.386013,-122.082932
+END:VCARD
+BEGIN:VCARD
+VERSION:2.1
+N:Smith;John
+FN:John Smith
+NICKNAME:Johny
+TEL;CELL;PREF:098 568 5687
+TEL;HOME:8688688
+PHOTO;GIF:http://www.example.com/dir_photos/my_photo.gif
+EMAIL;TYPE=work:jqpublic@xyz.example.com
+EMAIL;PREF=1:jane_doe@example.com
+URL:http://example.org/restaurant.french/~chezchic.html
+URL:http://www.johndoe.com
+GEO:37.386013,-122.082932
+END:VCARD
+BEGIN:VCARD
+VERSION:2.1
+TEL;CELL;PREF:098 568 5687
+TEL;HOME:8688688
+ADR;WORK:;;100 Waters Edge;Baytown;LA;30314;United States of America
+ADR;HOME:;;42 Plantation St.;Baytown;LA;30314;United States of America
+PHOTO;GIF:http://www.example.com/dir_photos/my_photo.gif
+EMAIL;TYPE=work:jqpublic@xyz.example.com
+EMAIL;PREF=1:jane_doe@example.com
+URL:http://example.org/restaurant.french/~chezchic.html
+URL:http://www.johndoe.com
+GEO:37.386013,-122.082932
+END:VCARD
+BEGIN:VCARD
+VERSION:2.1
+N:Smith;John
+FN:John Smith
+NICKNAME:Johny
+TEL;CELL;PREF:098 568 5687
+TEL;HOME:8688688
+ADR;WORK:;;100 Waters Edge;Baytown;LA;30314;United States of America
+ADR;HOME:;;42 Plantation St.;Baytown;LA;30314;United States of America
+PHOTO;ENCODING=BASE64;JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwM
+ EAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/
+ 2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUF
+ BQUFBQUFBQUFBQUFBT/wAARCABgAGADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAA
+ ECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaE
+ II0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZn
+ aGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJy
+ tLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAw
+ QFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobH
+ BCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hp
+ anN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0
+ tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDOE0y+XGgjjKrlozlP4h
+ k4xnjt9Tn1qS306S6Z5nmYgE7mYEArnOR0BwOnp09a29O0u1gtwkamVpG82QrH5aMy7hgEZLf
+ KRz+nSpntJZog5g3PCQwj2hmGNwygxkDBwRx1PTFfMqk3qzt57bHMqllZ74gwuG/iG4t97JUn
+ HQZGM8dO4qzIJsKzOsKDhQHwcZzjPfBxnrnnitQ6XeSOI4omDMRsWNCWcknKgZ5z/M1FDp32B
+ DNKYAjMUWATl5nAVTknnGc475wc8ilysOZFKzWSR2WKAgNgfc5bkgcD6ccVYktRZRxSzgv5u6
+ SNVIKuh3DIPbvnHIZSOcUsf7yIBXVIpTv3seFGefuj0Zj0GcevWvDN5lmbaG2BLMxPIyMcDI7
+ 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
+ z3BI/9k=
+
+EMAIL;TYPE=work:jqpublic@xyz.example.com
+EMAIL;PREF=1:jane_doe@example.com
+URL:http://example.org/restaurant.french/~chezchic.html
+URL:http://www.johndoe.com
+GEO:37.386013,-122.082932
+END:VCARD
+BEGIN:VCARD
+VERSION:2.1
+N;LANGUAGE=ru:Pupkin;Vasia
+FN:Vasia Pupkin
+ORG:NameOfCompany
+TITLE:VVV
+TEL;WORK;VOICE:333222333
+TEL;HOME;VOICE:552255
+X-MS-OL-DEFAULT-POSTAL-ADDRESS:0
+EMAIL;PREF;INTERNET:vasiaPupkin@gmail.com
+X-MS-CARDPICTURE;TYPE=JPEG;ENCODING=BASE64:
+ /9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAcFBQYFBAcGBQYIBwcIChELCgkJChUPEAwRGBUa
+ GRgVGBcbHichGx0lHRcYIi4iJSgpKywrGiAvMy8qMicqKyr/2wBDAQcICAoJChQLCxQqHBgc
+ KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKir/wAAR
+ CACUACcDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+ AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+ FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+ h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+ 5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+ AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+ NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+ hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+ 5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD393C4B6mgHqSeKhc7nOPoKRj2HQUAPef+
+ 5z7mlj5GT19agAyasD5U59M0AQv882PSikiGWJooAcOMn0FJSn7tJQARjLVLMcRn34psI5pJ
+ jyBQA1TtiJ75ook4VVooAVuvFJR2oHWgCeMfLmoD80341YPyR/QVXi5Yn2oASU5fFFNZssT7
+ 0UAP7U6MfMKb2qWIfyxQATNhAPWo1+WMn1pZjl8egoIJUKvJ70AQUVMI1X755ooABycVKhwv
+ HJPNIGQ9F5+lK5KoccUAN8sbsvyT2FNeQjhRt4pI+WJPXFNcguaAGqNzfMaKTGTgUUAWIx8w
+ /OlmPQfjSxr8p/KmOy7jxk9OegoAIwQufeo8KvU5PoKkc/u+eOAOKioAC56L8v0oplFAF48J
+ z2quBuYe5qeU4jPvUKdSfQUAEh6fiajp0n3senFNoAZRRRQBZmPzAelJH93nuaRzlj9aceE+
+ g/nQBCTk5ooPWigBlFFFAFkPuIBFKxXHPc0xOpPoKR+oHoKADYp6foaQx+/5imnrQGI6EigA
+ 2N25+hoo3nuAfwooAlT7rfhTW++31oooAYetFFFADKKKKAP/2Q==
+
+X-MS-OL-DESIGN;CHARSET=utf-8:<card xmlns="http://schemas.microsoft.com/office/outlook/12/electronicbusinesscards" ver="1.0" layout="left" bgcolor="ffffff"><img xmlns="" align="fit" area="16" use="cardpicture"/><fld xmlns="" prop="name" align="left" dir="ltr" style="b" color="000000" size="10"/><fld xmlns="" prop="org" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="title" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="telwork" align="left" dir="ltr" color="000000" size="8"><label align="right" color="626262">Work</label></fld><fld xmlns="" prop="telhome" align="left" dir="ltr" color="000000" size="8"><label align="right" color="626262">Home</label></fld><fld xmlns="" prop="email" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/></card>
+REV:20161223T141421Z
+END:VCARD
+BEGIN:VCARD
+VERSION:4.0
+N:Gump;Forrest;;Mr.;
+FN:Forrest Gump
+ORG:Bubba Gump Shrimp Co.
+TITLE:Shrimp Man
+PHOTO;MEDIATYPE=image/gif:http://www.example.com/dir_photos/my_photo.gif
+TEL;TYPE=work,voice;VALUE=uri:tel:+1-111-555-1212
+TEL;TYPE=home,voice;VALUE=uri:tel:+1-404-555-1212
+ADR;TYPE=WORK,PREF:;;100 Waters Edge;Baytown;LA;30314;United States of America
+LABEL;TYPE=WORK,PREF:100 Waters Edge\nBaytown\, LA 30314\nUnited States of America
+ADR;TYPE=HOME:;;42 Plantation St.;Baytown;LA;30314;United States of America
+LABEL;TYPE=HOME:42 Plantation St.\nBaytown\, LA 30314\nUnited States of Ame
+ rica
+EMAIL:forrestgump@example.com
+REV:20080424T195243Z
+URL:http://www.forrestgump.com
+GEO:37.386013,-122.082932
+END:VCARD

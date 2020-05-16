@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:2.1
+N:王吧;洋魏;;;
+FN:洋魏 王吧
+NICKNAME:洋魏 王吧
+TEL;CELL;PREF:098 568 5687
+TEL;HOME:8688688
+ADR;WORK:;;毛澤東苗;系促進辣魚;國際商業及商業中心;305室;十二生肖額外設備苑;寶山區寶山久存;36;201900上海;P.R.中國
+ADR;HOME:;;中国;山东省;青岛市;香港东路6号;5号楼;8号室;李小方（先生）收
+PHOTO;GIF:http://www.example.com/dir_photos/my_photo.gif
+EMAIL;TYPE=work:jqpublic@xyz.example.com
+EMAIL;PREF=1:jane_doe@example.com
+URL:http://example.org/restaurant.french/~chezchic.html
+URL:http://www.johndoe.com
+GEO:37.386013,-122.082932
+END:VCARD
